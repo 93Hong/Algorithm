@@ -1,5 +1,6 @@
 package com.giwook.algorithm.lesson2;
 
+import com.giwook.algorithm.lesson2_arrays.OddArray;
 import org.junit.jupiter.api.Test;
 
 /**

@@ -1,4 +1,4 @@
-package com.giwook.algorithm.lesson1;
+package com.giwook.algorithm.lesson1_iterations;
 
 /**
  *

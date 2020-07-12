@@ -1,4 +1,4 @@
-package com.giwook.algorithm.lesson2;
+package com.giwook.algorithm.lesson2_arrays;
 
 import java.util.Arrays;
 
